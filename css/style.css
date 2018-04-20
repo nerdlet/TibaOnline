@@ -8,6 +8,12 @@ body {
 	height:auto;
 	max-width:100%;
 	position:relative;
-	background-color:;
+}
+
+.main-content{
+	height: 700px;
+	max-width: 100%;
+	background:cover;
+	//background: url('../img/recordkeeping.jpg') no-repeat center center;
 }
 
